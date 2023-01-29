@@ -235,7 +235,9 @@ class DepolarizingPluginVec(AbstractPlugin):
                     sample = Sample(state=int_state,
                                     probability=np.real(val))
                     res.raw_data.append(sample)
-                
+                if hasattr(result, 'qregs'):
+                    res.qregs = result.qregs
+                    res.wrap_samples(res.qregs) 
                 return BatchResult(results=[res])
             raise Exception("nbshots > 0 not yet implemented")
 
