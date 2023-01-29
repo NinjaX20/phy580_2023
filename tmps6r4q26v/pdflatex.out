@@ -1,0 +1,37 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3)
+entering extended mode
+
+======================================================================
+starting package maintenance...
+installation directory: C:\Users\nun-o\AppData\Local\Programs\MiKTeX
+package repository: https://texlive.mycozy.space/systems/win32/miktex/tm/packages/
+package repository digest: 63bbf567343cf2fbe9a3e89cb844fb48
+going to download 293465 bytes
+going to install 5 file(s) (1 package(s))
+downloading https://texlive.mycozy.space/systems/win32/miktex/tm/packages/infwarerr.tar.lzma...
+0.29 MB, 5.14 Mbit/s
+extracting files from infwarerr.tar.lzma...
+======================================================================
+
+======================================================================
+starting package maintenance...
+installation directory: C:\Users\nun-o\AppData\Local\Programs\MiKTeX
+package repository: https://texlive.mycozy.space/systems/win32/miktex/tm/packages/
+package repository digest: 63bbf567343cf2fbe9a3e89cb844fb48
+going to download 317057 bytes
+going to install 5 file(s) (1 package(s))
+downloading https://texlive.mycozy.space/systems/win32/miktex/tm/packages/grfext.tar.lzma...
+0.32 MB, 3.84 Mbit/s
+extracting files from grfext.tar.lzma...
+======================================================================
+
+======================================================================
+starting package maintenance...
+installation directory: C:\Users\nun-o\AppData\Local\Programs\MiKTeX
+package repository: https://texlive.mycozy.space/systems/win32/miktex/tm/packages/
+package repository digest: 63bbf567343cf2fbe9a3e89cb844fb48
+going to download 304244 bytes
+going to install 5 file(s) (1 package(s))
+downloading https://texlive.mycozy.space/systems/win32/miktex/tm/packages/kvdefinekeys.tar.lzma...
+0.30 MB, 2.44 Mbit/s
+extracting files from kvdefinekeys.tar.lzma...
